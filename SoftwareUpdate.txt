@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

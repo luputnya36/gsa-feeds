@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Clarify triton server boolean value (#8532)

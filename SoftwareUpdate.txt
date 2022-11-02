@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)

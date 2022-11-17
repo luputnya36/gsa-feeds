@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add quantization support to TensorFlow.js converter (#7008)

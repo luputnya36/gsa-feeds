@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+docs: update view-results-in-terminal.md (#66)

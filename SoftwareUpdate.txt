@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)

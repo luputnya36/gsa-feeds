@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)

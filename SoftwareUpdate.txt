@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Compare plt.get_backend() in lowercase (#8409)

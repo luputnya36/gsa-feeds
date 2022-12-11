@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Remove unused variables (#8511)

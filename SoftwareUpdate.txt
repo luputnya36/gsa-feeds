@@ -1,1 +1,1 @@
-ultralytics 8.0.237 cv2.CAP_PROP fix and in_counts and out_counts displays (#7380)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)

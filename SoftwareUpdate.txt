@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)

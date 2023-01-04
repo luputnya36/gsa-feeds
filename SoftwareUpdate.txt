@@ -1,1 +1,1 @@
-fix val each epoch
+Add HUB-SDK Docs reference section (#7781)

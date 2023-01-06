@@ -1,1 +1,1 @@
-fix predict with class filter
+Update Discord and Contributing Guide URLs (#9270)

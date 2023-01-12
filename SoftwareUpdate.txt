@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

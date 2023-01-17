@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Auto-format by https://ultralytics.com/actions

@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Compress docs images (#8124)

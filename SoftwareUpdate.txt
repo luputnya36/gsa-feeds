@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add KaTeX support + updates to YOLOv9 model page (#8531)

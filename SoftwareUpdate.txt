@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix ONNX GPU inference bug (#6840)

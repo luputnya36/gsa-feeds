@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Cleanup Docs languages (#7865)

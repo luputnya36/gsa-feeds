@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+example Google Colab

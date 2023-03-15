@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add docstrings to new HUB functions (#7576)

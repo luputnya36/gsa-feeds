@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Auto-format by https://ultralytics.com/actions

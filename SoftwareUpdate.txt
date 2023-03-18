@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Move Explorer tests to scheduled CI (#8305)

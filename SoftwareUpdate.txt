@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)

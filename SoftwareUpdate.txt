@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)

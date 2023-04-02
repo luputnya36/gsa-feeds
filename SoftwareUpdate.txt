@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Explorer with LanceDB, Actions and Docs updates (#7487)

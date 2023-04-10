@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+fix resume training

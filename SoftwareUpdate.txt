@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add new YOLOv8 OBB model metrics (#7379)

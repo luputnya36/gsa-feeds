@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

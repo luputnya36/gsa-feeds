@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add visuals in guides/distance-calculation.md (#7876)

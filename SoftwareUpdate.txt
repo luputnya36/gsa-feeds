@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add visuals in guides/distance-calculation.md (#7876)

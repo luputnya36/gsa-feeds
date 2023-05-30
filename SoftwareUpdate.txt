@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)

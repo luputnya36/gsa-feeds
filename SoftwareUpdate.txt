@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add plot_images conf_thresh parameter (#8446)

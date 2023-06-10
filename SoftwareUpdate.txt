@@ -1,1 +1,1 @@
-added badges (#45)
+New test for labels and crops (#8861)

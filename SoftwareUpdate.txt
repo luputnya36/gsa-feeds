@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)

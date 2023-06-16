@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Update format.yml to pull_request_target (#7460)

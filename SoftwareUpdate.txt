@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update HTTP to HTTPS (#7548)

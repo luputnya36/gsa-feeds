@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add estimate_speed(region_color) parameter (#8285)

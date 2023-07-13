@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)

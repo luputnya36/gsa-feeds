@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Update CITATION.cff with cffinit corrections (#8658)

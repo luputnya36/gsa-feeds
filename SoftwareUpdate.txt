@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+OBB: Fix when training on zip data (#8680)

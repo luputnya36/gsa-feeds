@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)

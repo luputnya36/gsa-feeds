@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Fix OpenVINO links (#7930)

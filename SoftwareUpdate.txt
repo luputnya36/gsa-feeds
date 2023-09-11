@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Tracker: clean up GMC (#8003)

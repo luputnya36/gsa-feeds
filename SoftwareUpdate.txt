@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Fix Yolo 8.0.206 scale bug (#7821)

@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)

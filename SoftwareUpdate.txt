@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add YOLOv8 LibTorch C++ inference example (#7090)

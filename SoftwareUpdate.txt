@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix OBB xywh-angle concatenation bug (#7404)

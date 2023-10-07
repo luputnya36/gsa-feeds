@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix PNNX ubuntu -> linux bug (#7050)

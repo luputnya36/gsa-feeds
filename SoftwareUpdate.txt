@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)

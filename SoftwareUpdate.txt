@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Compare plt.get_backend() in lowercase (#8409)

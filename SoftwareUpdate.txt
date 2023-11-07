@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Auto-format by https://ultralytics.com/actions

@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Optimize function calls to method calls (#8507)

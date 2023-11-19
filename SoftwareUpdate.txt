@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Updated SQL Query Plot Code (#8120)

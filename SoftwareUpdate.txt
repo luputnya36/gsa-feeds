@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add C++ Classify inference example (#6868)

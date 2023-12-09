@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

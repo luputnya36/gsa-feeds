@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update neural-magic.md (#7347)

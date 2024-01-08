@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)

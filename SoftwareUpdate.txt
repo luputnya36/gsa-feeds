@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)

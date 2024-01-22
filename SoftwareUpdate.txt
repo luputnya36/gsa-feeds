@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)

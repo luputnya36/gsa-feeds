@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+add yolov10

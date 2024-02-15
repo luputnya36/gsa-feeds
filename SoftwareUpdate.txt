@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Add Amazon Sagemaker Docs integrations page (#7293)

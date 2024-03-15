@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update CITATION.cff with cffinit corrections (#8658)

@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+ultralytics 8.0.229 add model.embed() method (#7098)

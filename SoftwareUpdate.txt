@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

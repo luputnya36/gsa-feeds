@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Remove unused variables (#8511)

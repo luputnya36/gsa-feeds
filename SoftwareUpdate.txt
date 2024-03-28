@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)

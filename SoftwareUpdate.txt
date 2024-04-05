@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add new YOLOv8 OBB model metrics (#7379)

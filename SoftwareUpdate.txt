@@ -1,1 +1,1 @@
-fix predict with class filter
+Remove unused variables (#8511)

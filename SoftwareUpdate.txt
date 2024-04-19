@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

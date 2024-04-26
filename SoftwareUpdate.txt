@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add C++ Classify inference example (#6868)

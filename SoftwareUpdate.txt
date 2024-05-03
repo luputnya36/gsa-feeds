@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

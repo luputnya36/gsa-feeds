@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.1.27 batched tracking fixes (#8842)

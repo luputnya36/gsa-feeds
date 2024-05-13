@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)

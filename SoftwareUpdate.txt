@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)

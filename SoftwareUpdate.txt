@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Expand Model method type hinting (#8279)
